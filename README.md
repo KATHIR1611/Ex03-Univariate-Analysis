@@ -32,6 +32,7 @@ Do plots like boxplots,countplot,distribution plot,histogram plot.
 
 
 Developed by :Kathirvelan.K
+
 Registration Number : 212221220026
 
 ```
@@ -58,17 +59,52 @@ sns.countplot(x="Row ID", data=df)
 sns.distplot(df["Row ID"])
 
 sns.histplot(x="Row ID", data=df)
-
-
-
-
-
-
-
-
-
-
-
-
 ```
+# Output
+
+Dataset
+
+![]()
+
+Dataset head
+
+![]()
+
+Dataset info
+
+![]()
+
+Dataset describe
+
+![]()
+
+Null value
+
+![]()
+
+Data types
+
+![]()
+
+Value count
+
+![]()
+
+Boxplot
+
+![]()
+
+Count plot
+
+![]()
+
+Distribution plot
+
+![]()
+
+Histogram plot
+
+![]()
+
+
 
