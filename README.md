@@ -5,7 +5,7 @@
 
 Explanation
 
-Univariate analysis is basically the simplest form to analyze data. Uni means one and this means that the data has only one kind of variable. The major reason for univariate analysis is to use the data to describe. The analysis will take data, summarise it, and then find some pattern in the data.
+    Univariate analysis is basically the simplest form to analyze data. Uni means one and this means that the data has only one kind of variable. The major reason for     univariate analysis is to use the data to describe. The analysis will take data, summarise it, and then find some pattern in the data.
 
 # Algorithm
 
@@ -64,47 +64,46 @@ sns.histplot(x="Row ID", data=df)
 
 Dataset
 
-![]()
-
-Dataset head
-
-![]()
+![](https://github.com/KATHIR1611/Ex03-Univariate-Analysis/blob/main/ds%201.png)
 
 Dataset info
 
-![]()
+![](https://github.com/KATHIR1611/Ex03-Univariate-Analysis/blob/main/ds%202.png)
 
 Dataset describe
 
-![]()
+![](https://github.com/KATHIR1611/Ex03-Univariate-Analysis/blob/main/ds%203.png)
 
 Null value
 
-![]()
+![](https://github.com/KATHIR1611/Ex03-Univariate-Analysis/blob/main/ds%204.png)
 
 Data types
 
-![]()
+![](https://github.com/KATHIR1611/Ex03-Univariate-Analysis/blob/main/ds%205.png)
 
 Value count
 
-![]()
+![](https://github.com/KATHIR1611/Ex03-Univariate-Analysis/blob/main/ds%206.png)
 
 Boxplot
 
-![]()
+![](https://github.com/KATHIR1611/Ex03-Univariate-Analysis/blob/main/ds%207.png)
 
 Count plot
 
-![]()
+![](https://github.com/KATHIR1611/Ex03-Univariate-Analysis/blob/main/ds%208.png)
 
 Distribution plot
 
-![]()
+![](https://github.com/KATHIR1611/Ex03-Univariate-Analysis/blob/main/ds%209.png)
 
 Histogram plot
 
-![]()
+![](https://github.com/KATHIR1611/Ex03-Univariate-Analysis/blob/main/ds%2010.png)
 
+# Result
+
+    Thus we have read the given data and performed the univariate analysis with different types of plots.
 
 
