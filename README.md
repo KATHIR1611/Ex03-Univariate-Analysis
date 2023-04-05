@@ -49,4 +49,5 @@ sns.boxplot(x="Postal Code", data=df)
 sns.countplot(x="Postal Code", data=df)
 sns.distplot(df["Postal Code"])
 sns.histplot(x="Postal Code", data=df)
+
 '''
