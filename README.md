@@ -6,7 +6,7 @@ Colab Link - https://colab.research.google.com/drive/1vwpu5ldecbCMvJ_7w1axvbfV5A
 
 Github Link - https://github.com/KATHIR1611/Ex03-Univariate-Analysis
 
-# Aim
+# AIM
 
   To read the given dataset and perform univariate analysis.
 
