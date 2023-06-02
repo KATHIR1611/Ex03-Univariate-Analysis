@@ -1,14 +1,20 @@
 # Ex03-Univariate-Analysis
+
+Date - 
+
+Colab Link - 
+
+Github Link - 
+
 # Aim
 
   To read the given dataset and perform univariate analysis.
 
 Explanation
 
-  Univariate analysis is basically the simplest form to analyze data. Uni means one and this means that the data has only one kind of variable. The major reason for     univariate analysis is to use the data to describe. The analysis will take data, summarise it, and then find some pattern in the data.
+  Univariate analysis is basically the simplest form to analyze data. Uni means one and this means that the data has only one kind of variable. The major reason for univariate analysis is to use the data to describe. The analysis will take data, summarise it, and then find some pattern in the data.
 
 # Algorithm
-
 
 Step1
 Read the given data.
