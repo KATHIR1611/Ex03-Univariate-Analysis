@@ -2,9 +2,9 @@
 
 Date - 
 
-Colab Link - 
+Colab Link - https://colab.research.google.com/drive/1vwpu5ldecbCMvJ_7w1axvbfV5AZsMTUO?usp=sharing
 
-Github Link - 
+Github Link - https://github.com/KATHIR1611/Ex03-Univariate-Analysis
 
 # Aim
 
